@@ -7,6 +7,7 @@ group :development, :test do
   gem 'webmock'
 end
 
+gem 'activesupport', '~> 5.0', '>= 5.0.0.1'
 gem 'celluloid-io'
 gem 'dotenv'
 gem 'puma'
