@@ -30,7 +30,7 @@ module Connect
                'Two fish are in a tank. One says, ‘How do you drive this thing?’',
                'I always take life with a grain of salt. And a slice of lemon. And a shot of tequila.',
                'Just burned 2,000 calories. That’s the last time I leave brownies in the oven while I nap.']
-      match /joke/ do |client, data, _match|
+      match(/joke/) do |client, data, _match|
         client.say(channel: data.channel, text: jokes.sample)
       end
     end
