@@ -26,6 +26,8 @@ Anytime you're bored, Connect Bot connects you to a world of no stress. It gives
 ## Built With
 
 - Ruby
+- Ruby Slack Bot
+- RSpec
 - Linter
 - VScode
 
