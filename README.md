@@ -8,7 +8,7 @@
 
 Anytime you're bored, Connect Bot connects you to a world of no stress. It gives you a joke when you ask it for one.
 
-![screenshot](asset/screenshot_2.png)
+![screenshot](assets/screenshot_2.png)
 
 ## How to install
 
@@ -25,7 +25,7 @@ Anytime you're bored, Connect Bot connects you to a world of no stress. It gives
 11. Go to your slack workspace, and you will find the bot with the username you put.
 12. Click on the bot and send any message containing the word `joke` (For e.g: Tell me a joke) and enjoy nice jokes that will light up your mood.
 
-![screenshot](asset/screenshot_1.png)
+![screenshot](assets/screenshot_1.png)
 
 ## Built With
 
