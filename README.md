@@ -8,13 +8,15 @@
 
 Anytime you're bored, Connect Bot connects you to a world of no stress. It gives you a joke when you ask it for one.
 
+![screenshot](asset/screenshot_2.png)
+
 ## How to install
 
 1. Run `git clone https://github.com/krishnzzz/connect_bot.git` on your terminal.
 2. Make sure you have Ruby and Bundle installed.
 3. Open terminal from the root directory of the cloned project.
 4. Run `bundle install` to install all packages.
-5. Make sure you have a slack account and you have workspace on which you would want to install the bot.
+5. Make sure you have a slack account and you have a personal workspace in which you would want to install the bot.
 6. Go to http://slack.com/services/new/bot
 7. Create a new bot with a unique username.
 8. You will be re-directed, where you will obtain a Slack API Token.
@@ -22,6 +24,8 @@ Anytime you're bored, Connect Bot connects you to a world of no stress. It gives
 10. Run `rackup` in the terminal.
 11. Go to your slack workspace, and you will find the bot with the username you put.
 12. Click on the bot and send any message containing the word `joke` (For e.g: Tell me a joke) and enjoy nice jokes that will light up your mood.
+
+![screenshot](asset/screenshot_1.png)
 
 ## Built With
 
