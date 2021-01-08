@@ -1,4 +1,4 @@
-# ruby-enumerables
+# Connect Bot
 
 > Connect Bot is a funny bot that tells you a joke.
 
